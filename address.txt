@@ -1,0 +1,4 @@
+here lies all the original addresses of the unedited files 
+
+amcl_diff.launch : opt/ros/noetic/share/amcl/examples
+mapping_default.launch : /catkin_ws/src/hector_slam/hector_mapping/launch
